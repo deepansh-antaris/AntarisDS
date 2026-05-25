@@ -567,6 +567,10 @@
         "$type": "color",
         "$value": "linear-gradient(180deg, #CCF54E78 0%, #B3C679 50%, #B3C67900 100%), {opacity.5}"
       },
+      "element-focus": {
+        "$type": "color",
+        "$value": "linear-gradient(180deg,rgba(212, 245, 78, 1) 0%, rgba(52, 209, 105, 0.2) 100%);"
+      },
       "card-selected": {
         "$type": "color",
         "$value": "linear-gradient(90deg,rgba(28, 39, 17, 1) 0%, rgba(9, 9, 9, 0.2) 100%);"

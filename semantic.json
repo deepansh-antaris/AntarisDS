@@ -565,7 +565,7 @@
       },
       "edit": {
         "$type": "color",
-        "$value": "linear-gradient(180deg, #CCF54E78 0%, #B3C679 50%, #B3C67900 100%), {opacity.100}"
+        "$value": "linear-gradient(180deg, #CCF54E78 0%, #B3C679 50%, #B3C67900 100%), {opacity.5}"
       },
       "card-selected": {
         "$type": "color",

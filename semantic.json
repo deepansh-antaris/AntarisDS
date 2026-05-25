@@ -217,6 +217,14 @@
       "20": {
         "$type": "dimension",
         "$value": "{dim.20}"
+      },
+      "80": {
+        "$type": "dimension",
+        "$value": "{dim.80}"
+      },
+      "400": {
+        "$type": "dimension",
+        "$value": "{dim.400}"
       }
     }
   },
@@ -242,7 +250,7 @@
   "stroke": {
     "xl": {
       "$type": "borderWidth",
-      "$value": "{dim.1'5}"
+      "$value": "{dim.1p5}"
     },
     "lg": {
       "$type": "borderWidth",
@@ -250,7 +258,7 @@
     },
     "default": {
       "$type": "borderWidth",
-      "$value": "{dim.0'5}"
+      "$value": "{dim.0p5}"
     }
   },
   "spacing": {
@@ -569,7 +577,7 @@
       },
       "element-focus": {
         "$type": "color",
-        "$value": "linear-gradient(180deg,rgba(212, 245, 78, 1) 0%, rgba(52, 209, 105, 0.2) 100%);"
+        "$value": "linear-gradient(180deg,rgba(212, 245, 78, 1) 0%, rgba(52, 209, 105, 0.2) 100%), {opacity.40}"
       },
       "card-selected": {
         "$type": "color",

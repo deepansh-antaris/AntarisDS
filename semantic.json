@@ -551,11 +551,11 @@
         "$type": "color",
         "$value": "{color.blue-alpha.3}"
       },
-      "warnig": {
+      "warning": {
         "$type": "color",
         "$value": "{color.yellow-alpha.2}"
       },
-      "warnig-hover": {
+      "warning-hover": {
         "$type": "color",
         "$value": "{color.yellow-alpha.3}"
       },

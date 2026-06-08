@@ -509,11 +509,11 @@
       },
       "primary": {
         "$type": "color",
-        "$value": "rgba({color.gray.12}, {opacity.0,2})"
+        "$value": "rgba({color.gray.12}, {opacity.0p2})"
       },
       "secondary": {
         "$type": "color",
-        "$value": "rgba({color.gray.1}, {opacity.0,2})"
+        "$value": "rgba({color.gray.1}, {opacity.0p2})"
       },
       "tertiary": {
         "$type": "color",
